@@ -8,10 +8,11 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 -Golfing
 -Programming
 -Gaming
+-Service
 
 To see more about my hobbies, click on the links below!
 
-[Link](url) and ![Image](src)
+[Golf:](https://drive.google.com/drive/u/0/folders/11YG19SSeHMfvkKjiqlNfXOTzOpGfSZE3). (src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

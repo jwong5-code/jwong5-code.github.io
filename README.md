@@ -5,8 +5,9 @@ Joshua W
 ### About me
 
 I am a college student at Occidental, and my graduation year is 2024. During my free time, here are some things that I enjoy doing:
-# Golfing
-## Programming
+-Golfing
+-Programming
+-Gaming
 
 To see more about my hobbies, click on the links below!
 

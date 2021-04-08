@@ -11,9 +11,9 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 
 To see more about my hobbies, click on the links below!
 
-- [Golf](https://drive.google.com/drive/u/0/folders/11YG19SSeHMfvkKjiqlNfXOTzOpGfSZE3)
+- [Golf](https://drive.google.com/drive/folders/11YG19SSeHMfvkKjiqlNfXOTzOpGfSZE3?usp=sharing)
 
-- [Programming](https://drive.google.com/drive/u/0/folders/1YZCfdN-xubeeRI3KFFPYj87_ihUj-2KR)
+- [Programming](https://drive.google.com/drive/folders/1YZCfdN-xubeeRI3KFFPYj87_ihUj-2KR?usp=sharing)
 
 - [Service](https://drive.google.com/drive/folders/1mlYuwd8PNryGlBDng3nkQOG6aZo-BStV?usp=sharing)
 

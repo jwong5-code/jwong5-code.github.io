@@ -11,7 +11,7 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 
 To see more about my hobbies, click on the links below!
 
-- [Golf](https://sites.google.com/view/jwong5programming)
+- [Golf](https://sites.google.com/view/jwong5golf)
 
 - [Programming](https://drive.google.com/drive/folders/1YZCfdN-xubeeRI3KFFPYj87_ihUj-2KR?usp=sharing)
 

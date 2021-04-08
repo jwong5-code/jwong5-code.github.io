@@ -1,3 +1,14 @@
+
+h1 {
+  text-align: center;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 14px:
+}
+
 <h1 style = "color: green;"> Welcome to My Channel!</h1>
 
 Joshua W

@@ -1,6 +1,6 @@
 
 
-<h1 style = "color: green;" text-align: "center;"> Welcome to My Channel!</h1>
+<h1 style = "color: green;"> Welcome to My Channel!</h1>
 
 Joshua W
 

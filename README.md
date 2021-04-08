@@ -11,7 +11,7 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 
 To see more about my hobbies, click on the links below!
 
-- [Golf](http://localhost:63342/pythonProject1/Golfindex.html?_ijt=7s9cfggk06v9mihu5tc2kmrp0h) 
+- [Golf](http://63342/pythonProject1/Golfindex.html?_ijt=7s9cfggk06v9mihu5tc2kmrp0h) 
 
 - [Programming](http://localhost:63342/pythonProject1/Programming.html?_ijt=blkmv0bh2vipvkl311kktrfm7t)
 

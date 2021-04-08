@@ -11,7 +11,8 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 
 To see more about my hobbies, click on the links below!
 <body>
-- <a href = "Golfindex.html">Golf</a>
+- [Golf](https://drive.google.com/drive/u/0/folders/11YG19SSeHMfvkKjiqlNfXOTzOpGfSZE3)
+  <a href = "#Golf">Golf</a>
 
 - [Programming](http://localhost:63342/pythonProject1/Programming.html?_ijt=blkmv0bh2vipvkl311kktrfm7t)
 

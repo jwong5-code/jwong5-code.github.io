@@ -1,4 +1,4 @@
-## Welcome to My Channel!
+<h1 style = "color: green;"> #Welcome to My Channel!</h1>
 
 Joshua W
 

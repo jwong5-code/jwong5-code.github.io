@@ -1,13 +1,4 @@
 
-h1 {
-  text-align: center;
-}
-
-
-p {
-  font-family: verdana;
-  font-size: 14px:
-}
 
 <h1 style = "color: green;", text-align: center;> Welcome to My Channel!</h1>
 
@@ -16,7 +7,7 @@ Joshua W
 ### About me
 
 I am a college student at Occidental, and my graduation year is 2024. During my free time, here are some things that I enjoy doing:
-<p style="color:green;">-Golfing </p>
+<p style="color:green;", font-family: verdana;, font-size: 14px;>-Golfing </p>
 <p style="color:red;">-Programming </p>
 <p style="color:blue;">-Service </p>
 

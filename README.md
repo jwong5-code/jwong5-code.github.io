@@ -12,7 +12,7 @@ I am a college student at Occidental, and my graduation year is 2024. During my 
 
 To see more about my hobbies, click on the links below!
 
-[Golf:](http://63342/pythonProject1/Golfindex.html?_ijt=4gidbsdi50s7h5va7ib4mf09l4). (src)
+[Golf](http://localhost:63342/pythonProject1/Golfindex.html?_ijt=tkmi06fivc8kditetn7tnmobdm) (src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

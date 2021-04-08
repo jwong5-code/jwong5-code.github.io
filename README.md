@@ -18,4 +18,4 @@ To see more about my hobbies, click on the links below!
 
 - [Service](http://localhost:63342/pythonProject1/Service.html)
 
-<img src="IMG-4182" alt="Golf" width="200" height="200">
+<img src="IMG-4182.JPG" alt="Golf" width="200" height="200">

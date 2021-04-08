@@ -13,9 +13,9 @@ To see more about my hobbies, click on the links below!
 
 - [Golf](https://drive.google.com/drive/u/0/folders/11YG19SSeHMfvkKjiqlNfXOTzOpGfSZE3)
 
-- [Programming](https://drive.google.com/drive/u/0/folders/1chQp7MSuy2HP8_NccNGhfD50ucv2vfp7)
+- [Programming](https://drive.google.com/drive/u/0/folders/1YZCfdN-xubeeRI3KFFPYj87_ihUj-2KR)
 
-- [Service](https://drive.google.com/drive/u/0/folders/1chQp7MSuy2HP8_NccNGhfD50ucv2vfp7)
+- [Service](https://drive.google.com/drive/folders/1mlYuwd8PNryGlBDng3nkQOG6aZo-BStV?usp=sharing)
 
 <img src="IMG-4182.JPG" alt="Golf" width="250" height="200"> <img src="IMG-3441.JPG" alt="Magic Leap" width="250" height="200"> <img src="IMG-0224.JPG" alt="FreeGeek" width="200" height="250">
 

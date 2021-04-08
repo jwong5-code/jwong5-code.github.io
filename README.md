@@ -1,15 +1,15 @@
 
 
-<h1 style = "color: purple;"> Welcome to My Channel!</h1>
+<h1 style = "color: purple; text-align: center"> Welcome to My Channel!</h1>
 
 Joshua W
 
 ### About me
 
 I am a college student at Occidental, and my graduation year is 2024. During my free time, here are some things that I enjoy doing:
-<p style="color:green; font-family:verdana; font-size:14px;">-Golfing </p>
-<p style="color:red;">-Programming </p>
-<p style="color:blue;">-Service </p>
+<p style="color:green; font-family:verdana; font-size:25px;">-Golfing </p>
+<p style="color:red; font-family:Times New Roman; font-size:20px;">-Programming </p>
+<p style="color:blue; font-family:Arial; font-size:15px;">-Service </p>
 
 To see more about my hobbies, click on the links below!
 
